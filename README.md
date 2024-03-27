@@ -1,4 +1,4 @@
-# Snake Game Android
+# <color red > Snake Game Android</color>
 Snake game for Android made with Jetpack Compose just for my collage project. 
 
 
