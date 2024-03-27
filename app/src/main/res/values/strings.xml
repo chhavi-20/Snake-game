@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="default_player_name">Player 1</string>
+    <string name="about_game">Welcome to Snake Game, crafted by Chhavi Sharma, a BTech 6th-semester student. This classic arcade game is reimagined using Jetpack Compose, offering a modern twist on timeless entertainment. Enjoy intuitive controls and sleek animations as you navigate the snake through obstacles and collect food to grow longer. Challenge yourself to achieve the highest score in this meticulously crafted gaming experience.</string>
+    <string name="source_code">Source Code</string>
+    <string name="title_about">About</string>
+    <string name="game_over">Game Over!</string>
+    <string name="your_score">Your score: %s</string>
+    <string name="try_again">Try Again</string>
+    <string name="high_score">High Scores</string>
+    <string name="player_name">Player Name</string>
+    <string name="score">Score</string>
+    <string name="new_game">New Game</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="title_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="player_name_updated">Player Name Updated</string>
+</resources>
