@@ -1,5 +1,5 @@
 # Snake Game Android
-Snake game for Android made with Jetpack Compose. 
+Snake game for Android made with Jetpack Compose just for my collage project. 
 
 
 ## How to build the app
