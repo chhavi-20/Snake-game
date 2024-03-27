@@ -1,4 +1,4 @@
-# <p color="red" > Snake Game Android</p>
+# <p style{color:red;} > Snake Game Android</p>
 Snake game for Android made with Jetpack Compose just for my collage project. 
 
 
